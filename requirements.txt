@@ -1,0 +1,2 @@
+gunicorn==19.6.0
+virtualenv==15.0.2
